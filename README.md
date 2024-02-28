@@ -1,4 +1,7 @@
-Website đơn giản dạng blog học TIếng Anh 
+Website đơn giản dạng blog học Tiếng Anh 
+Admin có thể thêm sửa xóa một bài học. Mỗi bài học bao gồm một bài đọc, các câu hỏi trắc nghiệm đi kèm đáp án, các từ vựng đặc biệt trong bài để người dùng có thể học và ôn tập các từ vựng này bằng flashcard và các dạng câu hỏi trắc nghiệm.
+User tham gia các bài học có trên trang web. 
+
 Được xây dựng bằng Jsp/Servlet, JDBC kết nối với SqlServer.
 •	IDE: Apache NetBeans 13
 •	Apache Tomcat 9.0.55
